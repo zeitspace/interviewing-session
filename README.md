@@ -12,7 +12,11 @@ If you didn't attend the session in person, you may want to [read the slide deck
 
 ## Activity 1 - Interview Taboo
 
+[Interviewer guides are available](https://github.com/zeitspace/interviewing-session/tree/main/Interview%20Taboo).
+
 ## Activity 2 - What was the question?
+
+The CBC article discussed is [available online](https://www.cbc.ca/radio/thecurrent/the-current-for-nov-30-2020-1.5819415/lisa-raitt-on-taking-care-of-her-husband-as-he-struggles-with-young-onset-alzheimer-s-1.5819424).
 
 ## Activity 3 - Common question traps
 
@@ -35,6 +39,7 @@ If you didn't attend the session in person, you may want to [read the slide deck
 
 * Articles
   * [10 UX interviewing tips from a journalist](https://www.zeitspace.com/blog/10-ux-interviewing-tips-from-a-journalist) by Kelly Pedro, journalist at Zeitspace. If you liked what we covered in this session, be sure to take a look at Kelly's list of tips.
+  * [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2018.html) is an ethics policy provided by the Government of Canada.
 
 
 * Videos
