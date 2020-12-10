@@ -1,0 +1,11 @@
+Your goal is to learn about something interesting the participant did this past weekend.
+
+The words you can't use during the conversation are:
+
+* weekend
+* interesting
+* pandemic
+* COVID
+* family
+
+If you accidentally use one of those words, you don't need to stop the interview.
