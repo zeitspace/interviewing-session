@@ -2,7 +2,7 @@
 
 Welcome to the **How to plan, run, and learn from research interviews** Zeitspace Session resource page. Let's make sure you're all set up.
 
-If you didn't attend the session in person, you may want to [read the slide deck]() for a bit of background, but it isn't required.
+If you didn't attend the session in person, you may want to [read the slide deck](https://github.com/zeitspace/interviewing-session/blob/main/Interviewing%20Zeitspace%20Session%20-%20Slide%20Deck.pdf) for a bit of background.
 
 ## Setup
 
@@ -12,22 +12,19 @@ If you didn't attend the session in person, you may want to [read the slide deck
 
 ## Activity 1 - Interview Taboo
 
-[Interviewer guides are available](https://github.com/zeitspace/interviewing-session/tree/main/Interview%20Taboo).
+We have shared the [Interview Taboo activity guide](https://docs.google.com/document/d/1xf1jGrtXwRq32hI5hZwYbm66f-fjllMWJdwqqXf0S08/edit?usp=sharing) as a view-only Google Doc.
+
+[Interviewer guides are available](https://github.com/zeitspace/interviewing-session/tree/main/Interview%20Taboo) are also available. The interviewer guides provide the list of taboo words you need to avoid during the activity.
 
 ## Activity 2 - What was the question?
 
-The CBC article discussed is [available online](https://www.cbc.ca/radio/thecurrent/the-current-for-nov-30-2020-1.5819415/lisa-raitt-on-taking-care-of-her-husband-as-he-struggles-with-young-onset-alzheimer-s-1.5819424).
+We have shared the [What was the question? activity guide](https://docs.google.com/document/d/19AG553o4fNXuDY5R-NErdi3EgV0zUM0Wd6K3O-EHgcs/edit?usp=sharing) as a view-only Google Doc.
 
-## Activity 3 - Common question traps
+During the session, we used [an article about students cheating with technology from the London Free Press](https://lfpress.com/2014/03/24/technology-gives-students-new-ways-to-share-answers), but other suggested articles are listed in the activity guide.
 
-## Wrap-up
+## Activity 3 - Reworking questions
 
----
-## Frequency asked questions
-
-#### Why should I interview people?
-
-#### What types of interviews are there?
+We have shared the [reworking questions activity guide](https://docs.google.com/document/d/1xqar7_Cg847xSE1BUsBq3UTzU-2YS7E43U5k3kWxqbQ/edit?usp=sharing) as a view-only Google Doc.
 
 ---
 ## Resources
@@ -39,14 +36,15 @@ The CBC article discussed is [available online](https://www.cbc.ca/radio/thecurr
 
 * Articles
   * [10 UX interviewing tips from a journalist](https://www.zeitspace.com/blog/10-ux-interviewing-tips-from-a-journalist) by Kelly Pedro, journalist at Zeitspace. If you liked what we covered in this session, be sure to take a look at Kelly's list of tips.
-  * [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2018.html) is an ethics policy provided by the Government of Canada.
+  * [Tri-Council Policy Statement: Course on Research Ethics](https://tcps2core.ca/welcome) is a research ethics course provided by the Government of Canada.
 
 
 * Videos
   * [Conducting interviews that matter](https://www.poynter.org/shop/webinar/conducting-interviews-that-matter/) is a [Poynter](https://www.poynter.org)-produced session featuring journalist Joshua Johnson (MSNBC, NPR). Johnson talks about his approach to interviewing, and shares some of his favourite techniques.
+  * [Steve Portigal talks about the power of silence during an interview](https://www.youtube.com/watch?v=CEuNhWVbJYI). This was recorded at the [Fluxible](https://www.fluxible.ca/) in 2013.
 
 
-* Design toolkits
+* Design toolkits. All of these toolkits provide concentrated, practical advice about interviewing. Some are aimed at new interviewers, while others talk about different contexts for interviewing.
   * [Design Thinking Bootleg Deck](https://dschool.stanford.edu/resources/design-thinking-bootleg) by d.school/Stanford
   * [Design Thinking Playbook for Change Management in K12 Schools](https://issuu.com/normantran2001/docs/design_thinking_playbook) by Norman Tran
   * [Ethnography Fieldguide](https://dschool.stanford.edu/resources/ethnography-fieldguide) from d.school/Stanford
